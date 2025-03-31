@@ -59,7 +59,7 @@ def extract_zip_file(source: str, extract_folder: str) -> str:
 # def GA1_1(question):
 
 # Running uv run - -with httpie - - https[URL] installs the Python package httpie and sends a HTTPS request to the URL.
-# Send a HTTPS request to https: // httpbin.org/get with the URL encoded parameter email set to 22f2001640@ds.study.iitm.ac. in
+# Send a HTTPS request to https: // httpbin.org/get with the URL encoded parameter email set to 22f3001398@ds.study.iitm.ac. in
 # What is the JSON output of the command? (Paste only the JSON body, not the headers)
 
 
@@ -346,7 +346,7 @@ async def GA1_12(question: str, zip_file: UploadFile):
 
     return total_sum
 
-# Let's make sure you know how to use GitHub. Create a GitHub account if you don't have one. Create a new public repository. Commit a single JSON file called email.json with the value {"email": "22f2001640@ds.study.iitm.ac.in"} and push it.
+# Let's make sure you know how to use GitHub. Create a GitHub account if you don't have one. Create a new public repository. Commit a single JSON file called email.json with the value {"email": "22f3001398@ds.study.iitm.ac.in"} and push it.
 # Enter the raw Github URL of email.json so we can verify it. (It might look like https://raw.githubusercontent.com/[GITHUB ID]/[REPO NAME]/main/email.json.)
 
 # def GA1_13(question):
