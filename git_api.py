@@ -301,23 +301,23 @@ def GA4_8(question):
     return GA2_7(question)
 
 # GA1_13("""pre-commit: Git hooks
-# Let's make sure you know how to use GitHub. Create a GitHub account if you don't have one. Create a new public repository. Commit a single JSON file called email.json with the value {"email": "22f2001640@ds.study.iitm.ac.in"} and push it.
+# Let's make sure you know how to use GitHub. Create a GitHub account if you don't have one. Create a new public repository. Commit a single JSON file called email.json with the value {"email": "22f3001398@ds.study.iitm.ac.in"} and push it.
 
 # Enter the raw Github URL of email.json so we can verify it. (It might look like https://raw.githubusercontent.com/[GITHUB ID]/[REPO NAME]/main/email.json.)""")
 
-# GA2_3("""Publish a page using GitHub Pages that showcases your work. Ensure that your email address 22f2001640@ds.study.iitm.ac.in is in the page's HTML.
+# GA2_3("""Publish a page using GitHub Pages that showcases your work. Ensure that your email address 22f3001398@ds.study.iitm.ac.in is in the page's HTML.
 
 # GitHub pages are served via CloudFlare which obfuscates emails. So, wrap your email address inside a:
 
-# <!--email_off-->22f2001640@ds.study.iitm.ac.in<!--/email_off-->
+# <!--email_off-->22f3001398@ds.study.iitm.ac.in<!--/email_off-->
 # What is the GitHub Pages URL? It might look like: https://[USER].github.io/[REPO]/""")
 
-# GA2_7("""Create a GitHub action on one of your GitHub repositories. Make sure one of the steps in the action has a name that contains your email address 22f2001640@ds.study.iitm.ac.in. For example:
+# GA2_7("""Create a GitHub action on one of your GitHub repositories. Make sure one of the steps in the action has a name that contains your email address 22f3001398@ds.study.iitm.ac.in. For example:
 
 # jobs:
 #   test:
 #     steps:
-#       - name: 22f2001640@ds.study.iitm.ac.in
+#       - name: 22f3001398@ds.study.iitm.ac.in
 #         run: echo "Hello, world!"
 
 # Trigger the action and make sure it is the most recent action.
@@ -328,7 +328,7 @@ def GA4_8(question):
 # Create a scheduled GitHub action that runs daily and adds a commit to your repository. The workflow should:
 
 # Use schedule with cron syntax to run once per day (must use specific hours/minutes, not wildcards)
-# Include a step with your email 22f2001640@ds.study.iitm.ac.in in its name
+# Include a step with your email 22f3001398@ds.study.iitm.ac.in in its name
 # Create a commit in each run
 # Be located in .github/workflows/ directory
 # After creating the workflow:
